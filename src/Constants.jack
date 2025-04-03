@@ -10,7 +10,7 @@ class Constants {
         let BOARD_HEIGHT = 20;
         let CELL_SIZE = 16;
         
-        // Цвета для каждого типа фигуры (0-6)
+        // Цвета для каждого типа фигуры
         let COLOR_I = 0;
         let COLOR_O = 1;
         let COLOR_T = 2;
